@@ -26,12 +26,7 @@ const Places = () => {
         </div>
         
         <div className="places py-10 grid grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-8 justify-items-center">
-            
-
-
-
-
-
+        
             <section>
 
       <div className="flex flex-col gap-4 md:flex-row items-center md:justify-between mt-16 w-full">

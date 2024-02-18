@@ -39,11 +39,15 @@ function NavBar() {
             </Link>
             </p>
 
+            <Link href="/packages">
+
             <p
               className={`hover:text-primary text-navText font-[600] cursor-pointer flex items-center gap-2`}
             >
               Safari Packages
             </p>
+            </Link>
+
             <p
               className={`hover:text-primary text-navText font-[600] cursor-pointer flex items-center gap-2`}
             >
