@@ -27,9 +27,7 @@ const PackageCard: React.FC<PackageCardProps> = ({ packages }) => {
         />
 
         <div className="p-6  transition duration-300 ease-in">
-          <h2 className="text-base font-medium text-indigo-300 mb-1">
-            October 29, 2021
-          </h2>
+
           <h1 className="text-2xl font-semibold mb-3">{title}</h1>
           <p className="leading-relaxed mb-3">{description}</p>
 
@@ -59,7 +57,7 @@ const PackageCard: React.FC<PackageCardProps> = ({ packages }) => {
 
           <div className="flex items-center flex-wrap  bottom-12">
           <a href={`/packages/${url}`} className="text-indigo-300 inline-flex items-center md:mb-2 lg:mb-0">
-              View Packages
+              View Package
               <svg
                 className="w-4 h-4 ml-2"
                 viewBox="0 0 24 24"
