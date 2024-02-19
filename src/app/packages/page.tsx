@@ -78,11 +78,11 @@ function page() {
       <section className="md:h-full flex items-center text-gray-600">
         <div className="container px-5 py-24 mx-auto">
           <div className="text-center mb-12">
-            <h5 className="text-base md:text-lg text-indigo-700 mb-1">
+            <h5 className="text-base md:text-lg text-gray-700 mb-1">
               Explore Our Exciting Packages
             </h5>
-            <h1 className="text-4xl md:text-6xl text-gray-700 font-semibold">
-              Discover Amazing Destinations
+            <h1 className="text-4xl md:text-6xl  font-semibold text-orange-500">
+              Discover Our Amazing Packages
             </h1>
           </div>
           <div className="flex flex-wrap -m-4">{packagepacks}</div>

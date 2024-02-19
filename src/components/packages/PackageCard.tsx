@@ -56,7 +56,7 @@ const PackageCard: React.FC<PackageCardProps> = ({ packages }) => {
           <div className="h-16"></div>
 
           <div className="flex items-center flex-wrap  bottom-12">
-          <a href={`/packages/${url}`} className="text-indigo-300 inline-flex items-center md:mb-2 lg:mb-0">
+          <a href={`/packages/${url}`} className="text-indigo-300 inline-flex items-center md:mb-2 lg:mb-0 text-orange-500">
               View Package
               <svg
                 className="w-4 h-4 ml-2"
