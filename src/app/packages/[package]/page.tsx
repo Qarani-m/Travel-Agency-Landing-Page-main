@@ -48,7 +48,7 @@ const ProductPage: React.FC = () => {
                     <span className=' text-orange-500 text-3xl font-bold'>12 DAYS KENYA & TANZANIA COMBO MIDRANGE SAFARI </span>
                 </div>
                 <p className='text-gray-700'>
-                Con un'ammortizzazione incredibile per sostenerti in tutti i tuoi chilometri, Invincible 3 offre un livello di comfort elevatissimo sotto il piede per aiutarti a dare il massimo oggi, domani e oltre. Questo modello incredibilmente elastico e sostenitivo, è pensato per dare il massimo lungo il tuo percorso preferito e fare ritorno a casa carico di energia, in attesa della prossima corsa.
+                Con ammortizzazione incredibile per sostenerti in tutti i tuoi chilometri, Invincible 3 offre un livello di comfort elevatissimo sotto il piede per aiutarti a dare il massimo oggi, domani e oltre. Questo modello incredibilmente elastico e sostenitivo, è pensato per dare il massimo lungo il tuo percorso preferito e fare ritorno a casa carico di energia, in attesa della prossima corsa.
                 </p>
                 <h6 className='text-2xl font-semibold'>$ 199.00</h6>
                 <div className='flex flex-row items-center gap-12'>
