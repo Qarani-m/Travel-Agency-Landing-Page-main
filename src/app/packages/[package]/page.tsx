@@ -16,8 +16,6 @@ function page() {
 
 
 
-
-
 const ProductPage: React.FC = () => {
     const [images, setImages] = useState({
         img1 : "https://tour.epesicloud.com/app/storage/uploads/37/1669975907_69_file_(6).jpg",
